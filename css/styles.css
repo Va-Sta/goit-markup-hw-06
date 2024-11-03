@@ -350,7 +350,7 @@ button {
   background-color: #31d0aa;
 }
 
-. @media screen and (min-width: 768px) {
+@media screen and (min-width: 768px) {
   .mobile-menu {
     display: none;
   }
@@ -691,9 +691,6 @@ button {
   border: 1px solid #e7e9fc;
   border-top: none;
   padding: 32px 16px;
-}
-
-.portfolio-title {
 }
 
 .portfolio-subtitle {
@@ -1097,9 +1094,6 @@ button {
   margin-bottom: 16px;
 }
 
-.modal-form {
-}
-
 .modal-input {
   width: 100%;
   border: 1px solid rgba(46, 47, 66, 0.4);
@@ -1248,9 +1242,6 @@ button {
 
 .privacy-policy-link {
   color: #4d5ae5;
-}
-
-.icon-check {
 }
 
 @media screen and (min-width: 768px) {
